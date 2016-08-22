@@ -1,7 +1,15 @@
 TEMASEK
 =======
 
-This project is WORKS-IN-PROGRESS (WIP), not ready for use.
+Official Notice
+===============
+I have officially retired with effective 20 August 2016.
+
+I thank those whom had supported me all these years.
+
+I "may" continue just syncing cm sources until such day when CM goes into N.
+
+Farewell ....
 
 
 Download the Source
@@ -51,29 +59,7 @@ Google for the Android source code. CyanogenMod, in which this source layout was
 
 Special mention - Cristiano Matos (crDroid)
 
-Temasek HEAD of optimizations - arter97 (And advisor to kernel, device trees)
-
 PartimusPrime - Official bootanimation creator for temasek builds (CM11/CM12)
 
 Contributors - Khaon, neobuddy89, rogersb11 (Brett Rogers)
 
-
-Officially Recognized Device Maintainers
-========================================
-arter97 (flo, ks01lte)
-
-katinatez (Bacon)
-
-joshndroid (lte03wifi, mako, Nexus 9 Wifi, Nexus 6p, bullhead)
-
-apascual89 (hammerhead, Nexus 6p)
-
-kornfed (klte)
-
-Darkened_Sky (i9300)
-
-Trafalgar-Square (N7100, shieldtablet)
-
-neobuddy89 (Shamu)
-
-trader418 (hlte/hltespr/hltevzw)
